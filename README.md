@@ -1,13 +1,19 @@
-# Category-Checkbox-List-Tree
-
 === Plugin Name ===
+
 Contributors: Thien Do
+
 Donate link: http://www.thiendo.com/wordpress-category-checkbox-list-tree
+
 Tags: wordpress category, indent category, category list, category list tree, category, product category
+
 Requires at least: 2.7
+
 Tested up to: 3.4
+
 Stable tag: 1.0
+
 License: GPLv2 or later
+
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 This plugin supports indenting the order of categories.
@@ -25,7 +31,7 @@ This plugin supports indenting the order of categories!
 
 == Screenshots ==
 
-1. Post Categoies
+1. Post Categories
 2. Product Categories
 
 == Changelog ==

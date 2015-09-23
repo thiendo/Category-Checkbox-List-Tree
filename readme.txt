@@ -23,7 +23,7 @@ This plugin supports indenting the order of categories!
 
 == Screenshots ==
 
-1. Post Categoies
+1. Post Categories
 2. Product Categories
 
 == Changelog ==
