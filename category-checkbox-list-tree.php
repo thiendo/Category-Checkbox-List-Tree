@@ -1,14 +1,16 @@
 <?php
 /*
 Plugin Name: Category Checkbox List Tree
-Plugin URI: http://www.thiendo.com/wordpress/plugins/category-checkbox-list-tree
+Plugin URI: http://www.thiendo.com/wordpress-category-checkbox-list-tree
 Description: Category checkbox list tree indents when editing a Post
 Version: 1.0
 Author: Thien Do
 Author URI: http://www.thiendo.com/
-Tags: 
-License:
-License URI:
+Requires at least: 2.7
+Tested up to: 3.4
+Tags: wordpress category, indent category, category list, category list tree, category, product category
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
 
 class Category_Tree {

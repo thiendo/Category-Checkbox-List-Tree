@@ -1,5 +1,3 @@
-# Category-Checkbox-List-Tree
-
 === Plugin Name ===
 Contributors: Thien Do
 Donate link: http://www.thiendo.com/wordpress-category-checkbox-list-tree
